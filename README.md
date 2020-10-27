@@ -1,7 +1,7 @@
 # CompEcom
 
 
-#### Compare Prices and Get surprises :smiley:
+#### Compare Prices and get Surprises :smiley:
 
 ### Project Description 
 CompEcom stands for Compare E-commerce. 
