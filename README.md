@@ -1,5 +1,4 @@
 # CompEcom
-An app developed using Dash (Python) to compare product prices from various E-commerce websites.  
 
 
 #### Compare Prices and Get surprises :smiley:
