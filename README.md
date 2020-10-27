@@ -17,3 +17,5 @@ The app mainly uses Dash & Plotly libraries from Python for the front-end. The d
 * [Abhinav Shah](https://github.com/Abhinav17-hub) (Project Lead)
 * [Shrinath Deva](https://github.com/shrii06) (Software Developer)
 * [Aishwarya Sangle](https://github.com/AishwaryaS05) (Software Developer)
+
+(https://github.com/Abhinav17-hub/CompEcom/blob/main/DevelopedBy.jpg)
