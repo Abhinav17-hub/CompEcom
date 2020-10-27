@@ -5,11 +5,11 @@ An app developed using Dash (Python) to compare product prices from various E-co
 #### Compare Prices and Get surprises :smiley:
 
 ### Project Description 
-Comp-E-Com is a website developed to compare prices of various products from different E-commerce websites.
+CompECom is a website developed to compare prices of various products from different E-commerce websites.
 
 ### Working
 This website is used to compare the prices of products from [Flipkart](https://www.flipkart.com/), [Amazon](https://www.amazon.in/), [Snapdeal](https://www.snapdeal.com/).
-The website mainly uses dash libraries from Python for the front-end. The data is being scraped in real time using BeautifulSoup and Selenium. 
+The website mainly uses Dash & Plotly libraries from Python for the front-end. The data is being scraped in real time using BeautifulSoup. 
 
 
 ### Team members
