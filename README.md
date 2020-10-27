@@ -4,11 +4,13 @@
 #### Compare Prices and Get surprises :smiley:
 
 ### Project Description 
-CompECom is a website developed to compare prices of various products from different E-commerce websites.
+CompEcom stands for Compare E-commerce. 
+It is an app developed to compare prices of various products from different E-commerce websites. 
+The main aim of this app is to reduce time while comparing product prices across different platforms. 
 
 ### Working
-This website is used to compare the prices of products from [Flipkart](https://www.flipkart.com/), [Amazon](https://www.amazon.in/), [Snapdeal](https://www.snapdeal.com/).
-The website mainly uses Dash & Plotly libraries from Python for the front-end. The data is being scraped in real time using BeautifulSoup. 
+This app is used to compare the prices of products from Biggest Indian E-commerce sites viz [Flipkart](https://www.flipkart.com/), [Amazon](https://www.amazon.in/), and  [Snapdeal](https://www.snapdeal.com/).
+The app mainly uses Dash & Plotly libraries from Python for the front-end. The data is being scraped in real time using BeautifulSoup. 
 
 
 ### Team members
